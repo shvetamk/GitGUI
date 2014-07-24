@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Hey this is GIT GUI Demo.
+    <asp:Label ID="Label1" runat="server" Text="Hey this is GIT GUI Demo"></asp:Label>
     </div>
     </form>
 </body>
